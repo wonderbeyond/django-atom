@@ -1,6 +1,6 @@
 {
   "name": "django-atom",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Django Support for Atom",
   "keywords": [],
   "repository": "https://github.com/MauricioDinki/django-atom",
